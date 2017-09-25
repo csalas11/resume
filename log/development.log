@@ -2089,3 +2089,16 @@ Processing by FreelancersController#index as HTML
 Completed 200 OK in 475ms (Views: 251.9ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-09-25 00:51:26 -0700
+Processing by FreelancersController#index as HTML
+  Rendering freelancers/index.html.erb within layouts/freelancer
+  Rendered freelancers/_navigation.html.erb (0.7ms)
+  Rendered freelancers/_header.html.erb (204.5ms)
+  Rendered freelancers/_portfolio.html.erb (5.0ms)
+  Rendered freelancers/_about.html.erb (0.3ms)
+  Rendered freelancers/_contact.html.erb (0.5ms)
+  Rendered freelancers/_footer.html.erb (2.1ms)
+  Rendered freelancers/index.html.erb within layouts/freelancer (227.3ms)
+Completed 200 OK in 487ms (Views: 272.1ms)
+
+
