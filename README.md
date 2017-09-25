@@ -57,6 +57,10 @@ More of the skills section
 ![about](https://github.com/csalas11/resume/blob/master/screenshots/about.png?raw=true)
 The about me section of the website, which just gives a little bit of insight as to who I am and what I'm interested in when it comes to being a software engineer. 
 
+![fullInfo](https://github.com/csalas11/resume/blob/master/screenshots/fullInfo.png?raw=true)
+About me section on full screen desktop mode. Not compressed. 
+
+
 ![contact](https://github.com/csalas11/resume/blob/master/screenshots/contact.png?raw=true)
 The contact form, that I believe will work, since I added a missing PHP File and editted it accordingly. Will know for sure when I have my website on the internet. May require setting up some sort of server as well, will cross that road when I get to it. 
 
@@ -66,8 +70,6 @@ Contact form on full screen desktop mode. Not compressed.
 ![info](https://github.com/csalas11/resume/blob/master/screenshots/info.png?raw=true)
 Info page showing different ways to contact me online through LinkedIn, or mail me something. 
 
-![fullInfo](https://github.com/csalas11/resume/blob/master/screenshots/fullInfo.png?raw=true)
-Info section on full screen desktop mode. Not compressed. 
 
 
 Had lots of fun working on this, despite the times of desperation, glad I was finally able to get the theme working and then understanding the code to modify it was also really fun.
